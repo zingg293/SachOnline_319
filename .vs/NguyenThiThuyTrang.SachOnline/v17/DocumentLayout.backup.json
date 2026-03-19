@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\LTW\\online\\",
+  "WorkspaceRootPath": "D:\\STUDY\\SachOnline_319\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|c:\\ltw\\online\\nguyenthithuytrang.sachonline\\views\\sachonline\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|D:\\STUDY\\SachOnline_319\\nguyenthithuytrang.sachonline\\views\\sachonline\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|solutionrelative:nguyenthithuytrang.sachonline\\views\\sachonline\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|C:\\LTW\\online\\nguyenthithuytrang.sachonline\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|d:\\study\\sachonline_319\\nguyenthithuytrang.sachonline\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|solutionrelative:nguyenthithuytrang.sachonline\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|D:\\STUDY\\SachOnline_319\\nguyenthithuytrang.sachonline\\controllers\\sachonlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|solutionrelative:nguyenthithuytrang.sachonline\\controllers\\sachonlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|D:\\STUDY\\SachOnline_319\\nguyenthithuytrang.sachonline\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|solutionrelative:nguyenthithuytrang.sachonline\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|C:\\LTW\\online\\nguyenthithuytrang.sachonline\\views\\sachonline\\sachbannhieupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|d:\\study\\sachonline_319\\nguyenthithuytrang.sachonline\\views\\sachonline\\sachbannhieupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|solutionrelative:nguyenthithuytrang.sachonline\\views\\sachonline\\sachbannhieupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|C:\\LTW\\online\\nguyenthithuytrang.sachonline\\controllers\\sachonlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BA82991-E6CC-490B-A3E6-85B6BB5A29D4}|NguyenThiThuyTrang.SachOnline\\NguyenThiThuyTrang.SachOnline.csproj|solutionrelative:nguyenthithuytrang.sachonline\\controllers\\sachonlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SachBanNhieuPartial.cshtml",
-              "DocumentMoniker": "C:\\LTW\\online\\NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\SachBanNhieuPartial.cshtml",
-              "RelativeDocumentMoniker": "NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\SachBanNhieuPartial.cshtml",
-              "ToolTip": "C:\\LTW\\online\\NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\SachBanNhieuPartial.cshtml",
-              "RelativeToolTip": "NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\SachBanNhieuPartial.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAowDQAAAAGAAAA",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\STUDY\\SachOnline_319\\NguyenThiThuyTrang.SachOnline\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NguyenThiThuyTrang.SachOnline\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\STUDY\\SachOnline_319\\NguyenThiThuyTrang.SachOnline\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NguyenThiThuyTrang.SachOnline\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T10:24:20.989Z"
+              "WhenOpened": "2026-03-19T11:59:00.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SachBanNhieuPartial.cshtml",
+              "DocumentMoniker": "D:\\STUDY\\SachOnline_319\\NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\SachBanNhieuPartial.cshtml",
+              "RelativeDocumentMoniker": "NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\SachBanNhieuPartial.cshtml",
+              "ToolTip": "D:\\STUDY\\SachOnline_319\\NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\SachBanNhieuPartial.cshtml",
+              "RelativeToolTip": "NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\SachBanNhieuPartial.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowDQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T10:24:20.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\LTW\\online\\NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\Index.cshtml",
+              "DocumentMoniker": "D:\\STUDY\\SachOnline_319\\NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\Index.cshtml",
               "RelativeDocumentMoniker": "NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\Index.cshtml",
-              "ToolTip": "C:\\LTW\\online\\NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\Index.cshtml",
+              "ToolTip": "D:\\STUDY\\SachOnline_319\\NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\Index.cshtml",
               "RelativeToolTip": "NguyenThiThuyTrang.SachOnline\\Views\\SachOnline\\Index.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-19T09:59:58.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "SachOnlineController.cs",
-              "DocumentMoniker": "C:\\LTW\\online\\NguyenThiThuyTrang.SachOnline\\Controllers\\SachOnlineController.cs",
+              "DocumentMoniker": "D:\\STUDY\\SachOnline_319\\NguyenThiThuyTrang.SachOnline\\Controllers\\SachOnlineController.cs",
               "RelativeDocumentMoniker": "NguyenThiThuyTrang.SachOnline\\Controllers\\SachOnlineController.cs",
-              "ToolTip": "C:\\LTW\\online\\NguyenThiThuyTrang.SachOnline\\Controllers\\SachOnlineController.cs",
+              "ToolTip": "D:\\STUDY\\SachOnline_319\\NguyenThiThuyTrang.SachOnline\\Controllers\\SachOnlineController.cs",
               "RelativeToolTip": "NguyenThiThuyTrang.SachOnline\\Controllers\\SachOnlineController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAlAAAA",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T09:59:42.955Z"
+              "WhenOpened": "2026-03-19T09:59:42.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_LayoutUser.cshtml",
-              "DocumentMoniker": "C:\\LTW\\online\\NguyenThiThuyTrang.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
+              "DocumentMoniker": "D:\\STUDY\\SachOnline_319\\NguyenThiThuyTrang.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
               "RelativeDocumentMoniker": "NguyenThiThuyTrang.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
-              "ToolTip": "C:\\LTW\\online\\NguyenThiThuyTrang.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "D:\\STUDY\\SachOnline_319\\NguyenThiThuyTrang.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
               "RelativeToolTip": "NguyenThiThuyTrang.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAFIAAAA1AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T09:56:20.493Z"
+              "WhenOpened": "2026-03-19T09:56:20.493Z",
+              "EditorCaption": ""
             }
           ]
         }
